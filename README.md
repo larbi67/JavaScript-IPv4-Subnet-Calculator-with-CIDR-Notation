@@ -2,6 +2,8 @@
 
 This is a simple web-based IPv4 subnet calculator that allows users to calculate the network address, broadcast address, and the number of usable addresses for hosts based on CIDR notation.
 
+![Subnet Calculator Screenshot](screenshot.png)
+
 ## Usage
 
 1. Enter the IP address in the "IP Address" field.
