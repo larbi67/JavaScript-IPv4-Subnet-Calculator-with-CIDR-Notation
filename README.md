@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="subnet_calculator_screenshot.png" alt="Subnet Calculator Screenshot" width="100%">
+  <img src="screenshot.png" alt="Subnet Calculator Screenshot" width="100%">
 </div>
 
 # JavaScript IPv4 Subnet Calculator with CIDR Notation
