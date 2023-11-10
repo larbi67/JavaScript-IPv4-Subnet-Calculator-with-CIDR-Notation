@@ -35,8 +35,8 @@ This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE](
 
 Feel free to use and modify this calculator to suit your needs. If you encounter any issues or have suggestions for improvement, please let me know.
 
+Happy subnetting!
+
 <div align="center">
   <img src="screenshot.png" alt="Subnet Calculator Screenshot" width="100%">
 </div>
-
-Happy subnetting!
