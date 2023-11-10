@@ -29,6 +29,10 @@ The JavaScript code behind this calculator takes user input, validates the CIDR 
 - **Author:** Larbi OUIYZME
 - **Version:** 1.0
 
+## Additional Resources
+
+For more details, please refer to the [full article : Understanding Subnetting and CIDR Notation: A Practical Guide](https://medium.com/@larbi-ouiyzme/understanding-subnetting-and-cidr-notation-a-practical-guide-7c9c44d2c883).
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE](LICENSE) file for details.
