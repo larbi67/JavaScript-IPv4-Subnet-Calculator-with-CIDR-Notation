@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="screenshot.png" alt="Subnet Calculator Screenshot" width="100%">
-</div>
-
 # JavaScript IPv4 Subnet Calculator with CIDR Notation
 
 This is a simple web-based IPv4 subnet calculator that allows users to calculate the network address, broadcast address, and the number of usable addresses for hosts based on CIDR notation.
@@ -38,5 +34,9 @@ The JavaScript code behind this calculator takes user input, validates the CIDR 
 This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE](LICENSE) file for details.
 
 Feel free to use and modify this calculator to suit your needs. If you encounter any issues or have suggestions for improvement, please let me know.
+
+<div align="center">
+  <img src="screenshot.png" alt="Subnet Calculator Screenshot" width="100%">
+</div>
 
 Happy subnetting!
