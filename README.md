@@ -31,7 +31,7 @@ The JavaScript code behind this calculator takes user input, validates the CIDR 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE](LICENSE) file for details.
 
 Feel free to use and modify this calculator to suit your needs. If you encounter any issues or have suggestions for improvement, please let me know.
 
